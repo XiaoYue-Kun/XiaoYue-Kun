@@ -1,5 +1,5 @@
 
-## 你好！/ Hi There! / ¡Hola, mi amigo!
+## 你好！/ Hi There! / ¡Hola, Mi Amigo!
 
 <div>
     <img alt="Python" src="https://img.shields.io/badge/Python-blueviolet?logo=python&logoColor=white">
