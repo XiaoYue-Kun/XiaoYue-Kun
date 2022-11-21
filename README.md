@@ -23,9 +23,11 @@
 
 希望能在前行的道路上永不止步！
 
+---
+
 ### This is Akatsuki_Kun
 
-Currently a senior high school on campus.
+Currently a senior high school student on campus.
 
 - 🌱 Learning Python & Java
 - 📖 Hope to learn CV
