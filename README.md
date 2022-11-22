@@ -8,6 +8,7 @@
 </div>
 <br>
 
+---
 
 ### 这里是 晓月君
 
@@ -19,7 +20,7 @@
 - 📖 想学习CV
 - 🎮 PC游戏爱好者 & 粥游玩家（id同名）
 - 🎶 常听中文唱见 & 日语圈
-- ~~📺 老二次元（轻小说&番剧爱好者）~~
+- 📺 老二次元（轻小说 & 番剧爱好者）
 
 希望能在前行的道路上永不止步！
 
@@ -27,12 +28,14 @@
 
 ### This is Akatsuki_Kun
 
+> May you become the Fool Upright.
+
 Currently a senior high school student on campus.
 
 - 🌱 Learning Python & Java
-- 📖 Hope to learn CV
+- 📖 Want to learn CV
 - 🎮 Fan of PC games & AK
-- 🎶 Listen to Chinese ACGN singers & Japanese singers
+- 🎶 Listen to Chinese virtual singers & Japanese singers
 - 📺 Fan of ACGN (particularly Anime and LN)
 
 Hope I can keep moving forward and strive for fine, purse for perfection!
