@@ -31,7 +31,7 @@
 
 > May you become the Fool Upright.
 
-Currently a senior high school student on campus.
+Currently a university student.
 
 - 🌱 Python & Java
 - 📖 Want to learn AI Infra
